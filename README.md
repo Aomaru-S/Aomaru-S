@@ -14,6 +14,25 @@
         <b>Booking Platform for Exclusive Services💋</b> - Vue.js, Express, TypeScript
     </li>
 </ul>
+
+<h2>Certifications</h2>
+<ul>
+    <li>
+        AWS Certified Solutions Architect - Associate
+    </li>
+    <li>
+        Google Cloud - Associate Cloud Engineer
+    </li>
+    <li>
+        ORACLE MASTER Gold DBA 2019
+    </li>
+    <li>
+        応用情報技術者試験🇯🇵
+    </li>
+    <li>
+        情報処理安全確保支援士試験🇯🇵
+    </li>
+</ul>
     
 <h2>My skills</h2>
 <p align="center">

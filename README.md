@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aomaru - 蒼丸</h1>
+
 <h2>About me</h2>
 <ul>
     <li>From Japan🗾, stepping into the IT world💻</li>
@@ -36,9 +37,13 @@
     
 <h2>My skills</h2>
 <p align="center">
-    <div>
-        <img src="https://skillicons.dev/icons?i=java,aws,linux,gcp,vscode,ts,docker," />
-        <br />
-        <img src="https://skillicons.dev/icons?i=vue,vim,nginx,nodejs,kotlin,idea,ansible,sprint" />
-    </div>
+    <img src="https://skillicons.dev/icons?i=java,aws,linux,gcp,vscode,ts,docker," />
+    <br />
+    <img src="https://skillicons.dev/icons?i=vue,vim,nginx,nodejs,kotlin,idea,ansible,sprint" />
 </p>
+
+<h2>My Setup 🖥️</h2>
+<p>Not directly related to IT… but my favorite environment.</p>
+<div align="center">
+    <img src="./assets/image.webp" style="width: 80%;" />
+</div>

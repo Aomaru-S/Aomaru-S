@@ -22,7 +22,7 @@
         AWS Certified Solutions Architect - Associate
     </li>
     <li>
-        Google Cloud - Associate Cloud Engineer
+        Google Cloud - Professional Cloud Associate
     </li>
     <li>
         ORACLE MASTER Gold DBA 2019
